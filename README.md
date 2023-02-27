@@ -1,0 +1,17 @@
+# mist_train_girls
+#**使用说明**
+需要selenium和seleniumwire库的支持
+配置好环境变量的chrome的webdriver以支持selenium 请确认符合当前chrome版本
+修改main.py里配置的dmm账号信息和ist_train_girls_login.py里配置chrome用户文件位置
+配置好mist_train_girls_login.py和mist_train_girls_requests.py里的proxy信息
+请使用3.8以上版本的python运行main.py
+运行前请关闭使用了配置路径里用户文件的所有chrome進程
+#**注意事项**
+不要使用会改变技能的角色
+此程式适合养老但不适合练新号
+日常任务的金币和经验关卡由第一组的第一队负责处理
+活動關卡會自動判斷關卡敵人的抗性類型選擇隊伍
+寶藏活動由第一組的第二隊負責物理 第三隊魔法 战败周回宝藏任务的1-1
+祭壇BOSS第一組第四隊物理 第五隊魔法 如果1~30层出现战败周回2-5
+高铁活动第一组第六队物理 第七队魔法 战败则周回高铁的第一关
+战斗逻辑模拟手动战斗 找出当前满足当前SP需求的最高费攻击技能选择最前排敌人为目标

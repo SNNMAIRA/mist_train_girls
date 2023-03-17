@@ -34,4 +34,4 @@
 
 ## 关于
 
-本程序基于[MIT协议](https://en.wikipedia.org/wiki/MIT_License)开源，随意编辑和转载，欢迎提出Issues和Pull Request。
+本程序基于[MIT协议](https://en.wikipedia.org/wiki/MIT_License)开源，欢迎随意编辑和转载，欢迎提出Issues和Pull Request。
